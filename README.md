@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This Streamlit-based app showcases my learning
 A simple, elegant portfolio built with Streamlit to showcase my work and skills.
 
 ## 🚀 Live Demo
-[Click here to see my portfolio live]( https://s-sibgha-streamlit-streamlit-portfolio-wapmuk.streamlit.app/)
+[Click here to see my portfolio live](https://s-sibgha-streamlit-streamlit-portfolio-gsp7va.streamlit.app/)
 
 ## 🧠 Features
 - Project showcase
