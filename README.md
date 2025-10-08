@@ -27,9 +27,10 @@ I'm passionate about extracting insights from data, building data-driven solutio
 - Python (Basics)
 - Jupyter Notebook & JupyterLab
 - MS Word, PowerPoint, Excel
+- R Programming
 - Streamlit (Basics)
-- Data Entry
-
+- Data Entry 
+- Matlab
 ---
 
 
