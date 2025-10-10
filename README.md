@@ -37,10 +37,10 @@ I'm passionate about extracting insights from data, building data-driven solutio
 
 | Project Title      | Description                 | Link                                                                                       |
 |--------------------|-----------------------------|--------------------------------------------------------------------------------------------|
-| 📓 Notebook 1       | [Short Description]         | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/github_practice_notebook_1.html) |
-| 📓 Notebook 2       | [Short Description]         | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_2.html) |
-| 📓 Notebook 3       | [Short Description]         | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_3.html) |
-| 🌐 Notebook 4       | View on nbviewer (external) | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_4.ipynb) |
+| 📓 Notebook 1       | [Short Description]         | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/github_practice_notebook_1.html?flush_cache=true) |
+| 📓 Notebook 2       | [Short Description]         | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_2.html?flush_cache=true) |
+| 📓 Notebook 3       | [Short Description]         | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_3.html?flush_cache=true) |
+| 🌐 Notebook 4       | View on nbviewer (external) | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_4.ipynb?flush_cache=true) |
 
 
 
