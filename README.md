@@ -17,7 +17,7 @@ A simple, elegant portfolio built with Streamlit to showcase my work and skills.
 
 ## 🚀 About Me
 
-Hi, I'm **Sibgha**, currently pursuing **M.Sc. in Mthematics with Data Science**.  
+Hi, I'm **Sibgha**, currently pursuing **M.Sc. in Mathematics with Data Science**.  
 I'm passionate about extracting insights from data, building data-driven solutions, and continuously learning tools that power the future. This portfolio is a glimpse of my learning journey.
 
 ---
