@@ -35,7 +35,7 @@ I'm passionate about extracting insights from data, building data-driven solutio
 ---
 
 
-```
+
 | Project Title                     | Link                                                                                                    |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
 |
@@ -44,7 +44,7 @@ I'm passionate about extracting insights from data, building data-driven solutio
 | 📓 Notebook 3                     | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_3.html?flush_cache=true) |
 | 🌐 Notebook 4                     | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_4.ipynb?flush_cache=true) |
 
-```
+---
 
 
 ##  Contact Me
