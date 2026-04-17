@@ -46,6 +46,25 @@ st.markdown("""
 
 st.markdown("---")
 
+st.subheader("🏠 PMAY Housing Analysis")
+
+st.image("https://raw.githubusercontent.com/s-sibgha/pmay-housing-insights/main/outputs/completion_rate_barplot.png", caption="State-wise Completion Rate Analysis")
+
+st.write("""
+A statistical data analysis project focused on evaluating housing scheme performance 
+across states using normalization and visualization techniques.
+""")
+
+st.markdown("### 🔹 Key Highlights")
+st.markdown("""
+- Developed scale-independent performance analysis  
+- Identified implementation gaps and inefficiencies  
+- Performed comparative state-level analysis  
+""")
+
+st.markdown("🔗 [GitHub Repository](https://github.com/s-sibgha/pmay-housing-insights)")
+st.markdown("📜 [Certificate](https://drive.google.com/file/d/1Dv_67XVYuSiNdFNGEoU9NUF9fy2cOmOT/view?usp=drivesdk)")
+
 
 
 # 📂📙📘
