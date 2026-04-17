@@ -71,14 +71,14 @@ st.markdown("📜 [Certificate](https://drive.google.com/file/d/1Dv_67XVYuSiNdFN
 
 # 📂📙📘
 #💼 Portfolio Projects	
-col1, col2 = st.columns([1, 10])  # Adjust ratio as needed
+#col1, col2 = st.columns([1, 10])  # Adjust ratio as needed
 
-with col1:
-    st.image("https://img.icons8.com/fluency/96/survey.png", width=50)
+#with col1:
+    #st.image("https://img.icons8.com/fluency/96/survey.png", width=50)
      #st.markdown("<span style='font-size:40px;'>💼</span>",
     #unsafe_allow_html=True
-with col2:
-    st.subheader(" My Projects")
+#with col2:
+    #st.subheader(" My Projects")
 
 #st.markdown("###")  #Separator line
 
