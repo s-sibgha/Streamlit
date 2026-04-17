@@ -24,7 +24,30 @@ st.markdown("""
 """)
 st.markdown("###")
 # ---------- Projects Section ----
-import streamlit as st
+# ---------- FEATURED PROJECT ----------
+st.subheader("🚀 Featured Project")
+
+st.markdown("## 📊 Hybrid AI Student Performance Analyzer")
+
+st.write("""
+An intelligent AI-powered web application that predicts student performance 
+using a hybrid approach combining rule-based logic and machine learning.
+
+✔ Confidence-based decision system  
+✔ Accuracy, Precision, Recall, F1-score  
+✔ Confusion Matrix & Feature Importance  
+✔ Interactive Streamlit dashboard  
+""")
+
+st.markdown("""
+🔗 [🚀 Live App](https://student-performance-analyzer-ai-kucrjlyb2xdnalf6tpapex.streamlit.app/)  
+💻 [📂 GitHub Repo](https://github.com/s-sibgha/student-performance-analyzer)
+""")
+
+st.markdown("---")
+
+
+
 # 📂📙📘
 #💼 Portfolio Projects	
 col1, col2 = st.columns([1, 10])  # Adjust ratio as needed
