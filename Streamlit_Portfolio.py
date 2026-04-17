@@ -46,11 +46,13 @@ st.markdown("""
 
 st.markdown("---")
 
-st.subheader("🏠 PMAY Housing Analysis")
+st.subheader("🏠 PMAY Housing Analysis (Capstone Project)")
 
 st.image("https://raw.githubusercontent.com/s-sibgha/pmay-housing-insights/main/outputs/completion_rate_barplot.png", caption="State-wise Completion Rate Analysis")
 
-st.write("""
+st.markdown("""
+**Capstone Project – MTTS Online Training (Statistics for ML, AI & DS)**  
+
 A statistical data analysis project focused on evaluating housing scheme performance 
 across states using normalization and visualization techniques.
 """)
