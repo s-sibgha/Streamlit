@@ -31,23 +31,24 @@ I'm passionate about extracting insights from data, building data-driven solutio
 - Streamlit (Basics)
 - Data Entry 
 - Matlab
+  
 ---
 
 
 
-| Project Title      | Description                 | Link                                                                                       |
-|--------------------|-----------------------------|--------------------------------------------------------------------------------------------|
-| 📓 Notebook 1       | [Short Description]         | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/github_practice_notebook_1.html?flush_cache=true) |
-| 📓 Notebook 2       | [Short Description]         | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_2.html?flush_cache=true) |
-| 📓 Notebook 3       | [Short Description]         | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_3.html?flush_cache=true) |
-| 🌐 Notebook 4       | View on nbviewer (external) | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_4.ipynb?flush_cache=true) |
+| Project Title                     | Link                                                                                                    |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
+|
+|📓 Notebook 1                      | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/github_practice_notebook_1.html?flush_cache=true) |
+| 📓 Notebook 2                     | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_2.html?flush_cache=true) |
+| 📓 Notebook 3                     | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_3.html?flush_cache=true) |
+| 🌐 Notebook 4                     | [Open in nbviewer](https://nbviewer.org/github/s-sibgha/Streamlit/blob/main/Github_Practice_Notebook_4.ipynb?flush_cache=true) |
 
 
 
 
 ##  Contact Me
-
-📧 Email: `sibghaislam8@gmail.com`  
+ 
 🔗 LinkedIn: https://linkedin.com/in/sibgha-3665a1377
 🌐 GitHub:   https://github.com/s-sibgha
 
